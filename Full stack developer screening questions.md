@@ -2,34 +2,53 @@
 # Git skills
 
 Can you create a fork of this `gist` and push it to your `gist`? 
-<b>Answer: Yes</b>
 
+```js
+ Yes
+```
 How would you make sure that your work doesn't conflict with someone else's code when working on the same project in a team?
-<b>Answer: by using new file in preference to an existing one.
+```js
+Answer: by using new file in preference to an existing one.
 By not putting changes at end of our code.
-Using push and pull changes more often.</b>
+Using push and pull changes more often.
 
+```
 Write the command for merging someone's code?
-<b>Answer: git merge <query></b>
+```js
+answer: git merge <query>
+
+```
 
 Can you install and run the following library on your system? https://github.com/geelen/git-smart/ 
-<b>Answer: Yes</b>
+```js
+ 
+Answer: Yes
+
+```
 
 What are some good branching conventions?
-<b>Answer: Using unique Id in brach name
+```js
+
+Answer: Using unique Id in brach name
   Using slash as operator
   giving branch with aurthor name
-  avoiding using numbers only</b>
+  avoiding using numbers only
+
+```
 
 What are some good commit message conventions?
-<b>Anwer: Separate subject from body with a blank line
+```js
+ 
+Anwer: Separate subject from body with a blank line
 Limit the subject line to 50 characters
 Capitalize the subject line
 Do not end the subject line with a period
 Use the imperative mood when in the subject line
 Wrap the body at 72 characters
 Use the body to explain what and why the change was made.
-Remove unnecessary punctuation marks</b>
+Remove unnecessary punctuation marks
+
+```
 
 For bonus points create a github repo or a gist where you commit your answers to each question in a separate commit.
 
