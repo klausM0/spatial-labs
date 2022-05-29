@@ -53,9 +53,7 @@ Can you rewrite the above component to use `state` instead of `prop`?
 
 ```js
 // your solution
-// ....
-```
-<b>import React, { useState } from 'react';
+import React, { useState } from 'react';
 const myComponent = (props) => {
 return(
   <div>Hi there! {props.name}</div>
@@ -79,12 +77,13 @@ class MyComponent extends React.Component {
     );
   }
 }
-</b>
+```
+
 Why is the following react code wrong? What would be the correct way to set the `state`?
 
 ```js
 //using setState
-<b>this.setState({message: "HelloWorld"})</b>
+this.setState({message: "HelloWorld"})
 ```
 
 What's wrong with the following ReactJS code?
